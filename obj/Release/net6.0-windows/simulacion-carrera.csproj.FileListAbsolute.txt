@@ -1,0 +1,17 @@
+C:\Users\Yunior\source\repos\simulacion-carrera\bin\Release\net6.0-windows\simulacion-carrera.exe
+C:\Users\Yunior\source\repos\simulacion-carrera\bin\Release\net6.0-windows\simulacion-carrera.deps.json
+C:\Users\Yunior\source\repos\simulacion-carrera\bin\Release\net6.0-windows\simulacion-carrera.runtimeconfig.json
+C:\Users\Yunior\source\repos\simulacion-carrera\bin\Release\net6.0-windows\simulacion-carrera.dll
+C:\Users\Yunior\source\repos\simulacion-carrera\bin\Release\net6.0-windows\simulacion-carrera.pdb
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion_carrera.Properties.Resources.resources
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion_carrera.Codigo.resources
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion-carrera.csproj.GenerateResource.cache
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion-carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion-carrera.AssemblyInfoInputs.cache
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion-carrera.AssemblyInfo.cs
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion-carrera.csproj.CoreCompileInputs.cache
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion-carrera.dll
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\refint\simulacion-carrera.dll
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion-carrera.pdb
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\simulacion-carrera.genruntimeconfig.cache
+C:\Users\Yunior\source\repos\simulacion-carrera\obj\Release\net6.0-windows\ref\simulacion-carrera.dll
